@@ -3,6 +3,7 @@ The Rainbow
 purple
 red
 orange
+Green
 Blue
 etc.
 Dan's Poem
